@@ -38,7 +38,7 @@ st.markdown(
     footer {
         background-color: #ffd700;
         color: black;
-        text-align: right;
+        text-align: center;
         padding: 10px;
         position: fixed;
         bottom: 0;
@@ -48,7 +48,6 @@ st.markdown(
         box-shadow: 0px -1px 5px rgba(0, 0, 0, 0.1);
     }
     footer p {
-        padding-right: 70px;
         margin: 0;
     }
     header {
